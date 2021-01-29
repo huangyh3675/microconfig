@@ -1,7 +1,8 @@
+
 spring:
   profiles:
-    active: dev
-      
+    active: beta
+
 ---
 server:
   port: 8080
@@ -88,3 +89,4 @@ management:
     web:
       exposure:
         include: '*'
+
