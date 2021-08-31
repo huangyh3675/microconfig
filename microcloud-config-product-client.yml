@@ -41,7 +41,7 @@ info:
   app.name: microcloud-provider-product
   company.name: enjoy
   build.artifactId: $project.artifactId$
-    build.modelVersion: $project.modelVersion$
+  build.modelVersion: $project.modelVersion$
 
 
 management:
@@ -88,8 +88,6 @@ eureka:
 info:
   app.name: microcloud-config-product-client
   company.name: enjoy
-  build.artifactId: $project.artifactId$
-  build.modelVersion: $project.modelVersion$
 
 management:
   endpoints:
