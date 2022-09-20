@@ -11,7 +11,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: microconfig-test-client3
+    name: microconfig-test-client1
 
 eureka:
   client:
