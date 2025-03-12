@@ -2,6 +2,13 @@ spring:
    profiles:
       active:
         - dev
+
+info:
+   app:
+      name: appname  
+   company:
+      name: company
+   
 ---
 server:
   port: 8203
