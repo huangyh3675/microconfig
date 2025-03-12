@@ -7,7 +7,7 @@ info:
    app:
       name: appname  
    company:
-      name: company
+      name: company22222
    
 ---
 server:
